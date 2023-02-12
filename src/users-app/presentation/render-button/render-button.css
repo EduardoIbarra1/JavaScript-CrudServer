@@ -1,0 +1,12 @@
+
+button{
+    margin: 20px;
+    background-color: rgba(67, 201, 238, 0.348);
+}
+
+#current-page{
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white !important
+}
